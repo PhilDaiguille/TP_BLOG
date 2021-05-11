@@ -1,3 +1,2 @@
 # TP_BLOG
-
-url :  TP_BLOG/TP_BLOG/index.html 
+[Voir l'index](https://limortaliter.github.io/TP_BLOG/index.html )
